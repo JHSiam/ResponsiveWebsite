@@ -3,14 +3,11 @@
 
 
 
-/* 
-* {
-    border: 1px solid red;
-} */
 
 body{
     
     background: rgb(244, 243, 243);
+    margin: 0px;
 }
 
 nav {
@@ -259,6 +256,8 @@ text-align: left;
 /* footer */
 
 footer{
+    width: 100%;
+    margin: 0px;
     background-color: black;
     display: flex;
     flex-direction: column;
